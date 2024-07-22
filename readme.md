@@ -8,6 +8,7 @@ Automation project using Cypress
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Contact Informatio](#contact-information)
 
 ### Project Description
 
@@ -23,19 +24,19 @@ Project to practice automation of REST API tests System under test: http://api.t
 
 ### Getting Started
 
-1. Install node.js latest version, make sure to install npm
+1. Install node.js latest version and npm
 
-   - git clone on this repository
-   - run the npm install in the root of the project ( 'npm install')
-   - create a cypress.env.json with: 
+   - Clone this repository
+   - Run 'npm install' in the root of the project 
+   - Create a cypress.env.json with: 
         - "TRELLO_API_KEY"
         - "TRELLO_TOKEN"
-    - How to get? https://developer.atlassian.com/cloud/trello/
+    - For more information:  https://developer.atlassian.com/cloud/trello/
 ### Usage
 
 Useful commands:
 
-- "cy:open" : runs the test execution on live 
+- "cy:open" : runs the test execution live 
 - "cy:run" : runs the test execution in headless mode 
 
 ### Contact Information 
