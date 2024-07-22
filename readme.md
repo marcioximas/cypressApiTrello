@@ -40,9 +40,7 @@ Useful commands:
 - "cy:open" : runs the test execution on live 
 - "cy:run" : runs the test execution in headless mode 
 
-Note: environment URLs and credentials are configured in ./config
+### Contact Information 
 
-### Contact Information (Optional)
-
-- Email: josmenag@gmail.com
-- Linkedin: https://www.linkedin.com/in/jose-mendez-489446ba/
+- Email: marcioximas@gmail.com
+- Linkedin: https://www.linkedin.com/in/marcio-ximenes/
