@@ -11,8 +11,7 @@ Automation project using Cypress
 
 ### Project Description
 
-Project to practice automation of REST API tests
-System under test: http://api.trello.com
+Project to practice automation of REST API tests System under test: http://api.trello.com
 
 ### Features
 1.  Board Api Test
@@ -21,6 +20,7 @@ System under test: http://api.trello.com
 2. Card Api Test
     - create a Card
     - delete a Card
+
 ### Getting Started
 
 1. Install node.js latest version, make sure to install npm
@@ -30,9 +30,7 @@ System under test: http://api.trello.com
    - create a cypress.env.json with: 
         - "TRELLO_API_KEY"
         - "TRELLO_TOKEN"
-
-
-
+    How to get? https://developer.atlassian.com/cloud/trello/
 ### Usage
 
 Useful commands:
