@@ -30,7 +30,7 @@ Project to practice automation of REST API tests System under test: http://api.t
    - create a cypress.env.json with: 
         - "TRELLO_API_KEY"
         - "TRELLO_TOKEN"
-    How to get? https://developer.atlassian.com/cloud/trello/
+    - How to get? https://developer.atlassian.com/cloud/trello/
 ### Usage
 
 Useful commands:
