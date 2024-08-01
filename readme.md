@@ -8,7 +8,7 @@ Automation project using Cypress
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contact Informatio](#contact-information)
+- [Contact Information](#contact-information)
 
 ### Project Description
 
